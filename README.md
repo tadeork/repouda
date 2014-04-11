@@ -3,5 +3,33 @@ repouda
 
 Sistema de informaci贸n y administraci贸n de la UDA
 
-La API est谩 hecha con Laravel 4. Vamos a usar este framework como base para la aplicaci贸n con RESTful.
+Servicios b醩icos a prestar
+---------------------------
+
+	- Informaci髇 de las carreras
+	- Programas de las materias
+	- Inscripci髇 a mesas
+	- Situaci髇 Acad閙ica
+	
+Tecnolog韆s
+-----------
+
+La API est谩 hecha con Laravel 4. Vamos a usar este framework como base para la aplicaci贸n con RESTful. Del lado cliente se utiliza JQuery-Mobile.
+
+* [Github] - Sistema de versionado
+* [Ajax] - Para conectarse en forma as韓crona
+* [Laravel] - Framework de PHP
+* [JQuery-Mobile] - UI responsive para m髒iles
+* [MySQL] - Como DB, a definir 
+
+Licencia
+--------
+MIT
+
+[GIT]:https://github.com/
+[Ajax]:https://api.jquery.com/jQuery.ajax/
+[Laravel]:http://laravel.com/
+[JQuery-Mobile]:demos.jquerymobile.com/1.4.2/
+[MySQL]:http://www.mysql.com/products/workbench/
+	
 
