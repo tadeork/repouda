@@ -26,7 +26,7 @@ Licencia
 --------
 MIT
 
-[GIT]:https://github.com/
+[Github]:https://github.com/
 [Ajax]:https://api.jquery.com/jQuery.ajax/
 [Laravel]:http://laravel.com/
 [JQuery-Mobile]:demos.jquerymobile.com/1.4.2/
