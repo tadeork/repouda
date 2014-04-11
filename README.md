@@ -14,7 +14,7 @@ Servicios básicos a prestar
 Tecnologías
 -----------
 
-La API estÃ¡ hecha con Laravel 4. Vamos a usar este framework como base para la aplicaciÃ³n con RESTful. Del lado cliente se utiliza JQuery-Mobile.
+La API está hecha con Laravel 4. Vamos a usar este framework como base para la aplicaciónn con RESTful. Del lado cliente se utiliza JQuery-Mobile.
 
 * [Github] - Sistema de versionado
 * [Ajax] - Para conectarse en forma asíncrona
