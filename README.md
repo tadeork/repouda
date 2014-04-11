@@ -1,7 +1,7 @@
 repouda
 =======
 
-Sistema de informaciÃ³n y administraciÃ³n de la UDA
+Sistema de información y administración de la UDA
 
 Servicios básicos a prestar
 ---------------------------
