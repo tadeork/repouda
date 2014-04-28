@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'estudio_laravel',
+			'database'  => 'sistemauda',
 			'username'  => 'root',
 			'password'  => 'Caterpillar4',
 			'charset'   => 'utf8',
